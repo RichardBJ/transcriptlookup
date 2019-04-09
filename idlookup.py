@@ -109,7 +109,7 @@ for idj in idlist:
         for val in rtn:
             res.append(val)
         j=0
-ENSRNOT00000083429        batch=[]
+        batch=[]
         total=total+sizes
         print('total genes done='+str(total))
 #get the last few!
